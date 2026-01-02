@@ -1,5 +1,4 @@
-# psychic-giggle
-Below is the one‑shot shell script that will write the fully expanded project files locally, initialize a git repo, create a PRIVATE GitHub repo pushdabagg-create/lunar-lab via gh, and push the initial commit. Save it as create_and_push_lunar_lab_private.sh, inspect/edit if desired, make it executable, and run it locally. gh must be authenticated on your machine.
+create_and_push_lunar_lab_private.sh, inspect/edit if desired, make it executable, and run it locally. gh must be authenticated on your machine.
 
 Important safety notes before running:
 - Do NOT put any API keys or secrets into the files this script writes; use .env and keep it out of version control.
